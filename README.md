@@ -1,6 +1,6 @@
 # Employee Polls Project
 
-Masterschool React part two - welcome to Redux! In big applications, it's all about state management. A lot new stuff to learn in the first place, but amazing to apply throughout the course and in the final project. We built employee polls all from scratch, so I didn't only have the opportunity to work with React and Redux, but also CSS again. 💛
+Masterschool React part two - welcome to Redux! In big applications, it's all about state management. A lot new stuff to learn in the first place, but amazing to apply throughout the course and in the final project. We built employee polls all from scratch, so I didn't only have the opportunity to work with React and Redux, but also CSS again.
 
 # About
 
