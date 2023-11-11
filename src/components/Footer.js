@@ -2,7 +2,7 @@ const Footer = () => {
 	return (
 		<footer className="footer">
 			<a
-				href="https://github.com/psyjulga/React-Redux-project-employee-polls"
+				href="https://github.com/dausbel/React-Redux-project-employee-polls"
 				target="_blank"
 				rel="noreferrer"
 				title="Code on Github"
